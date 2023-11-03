@@ -7,3 +7,6 @@ Swimming
 Curling
 Badminton
 Baseball
+Bowling
+Judo
+Lawn tennis
