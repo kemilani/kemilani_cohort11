@@ -5,3 +5,5 @@ Hockey
 Volleyball
 Swimming
 Curling
+Badminton
+Baseball
